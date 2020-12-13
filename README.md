@@ -1,8 +1,13 @@
 # Zeronet
+### [Account services](#account-services) - [Search Engine](#search-engines) - [Mail services](#mail-services) - [More](#more)
 ## Account services
 |Website name|Description|Creator/Developer|URL|Alert|
 |:-|:-|:-|:-|:-|
 |ZeroID|Principal Zeronet ID provider|[Zeronet](https://zeronet.io)|[zeroid.bit](http://localhost:43110/zeroid.bit)||
+## Search Engines
+|Website name|Description|Creator/Developer|URL|Alert|
+|:-|:-|:-|:-|:-|
+|ZeroMail|Mail service by the creators of Zeronet|[Zeronet](https://zeronet.io)|[Mail.ZeroNetwork.bit](http://localhost:43110/Mail.ZeroNetwork.bit)||
 ## Mail services
 |Website name|Description|Creator/Developer|URL|Alert|
 |:-|:-|:-|:-|:-|
