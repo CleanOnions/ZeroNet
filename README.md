@@ -1,6 +1,9 @@
 # Zeronet
 ## Account services
-|test|test|
+|Name|URL|
 |:-|:-|
-|a|a|
+|ZeroID|[zeroid.bit](http://localhost:43110/zeroid.bit)|
 ## Mail services
+|Website name|URL|
+|:--------|:---|
+|ZeroMail||
