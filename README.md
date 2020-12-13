@@ -1,5 +1,5 @@
 # Zeronet
-#### [Account services](#account-services) - [Search Engine](#search-engines) - [Mail services](#mail-services) - [Blogs](#blogs) - [More](#more) | [Help & contribute](#help-contribute)
+#### [Account services](#account-services) - [Search Engine](#search-engines) - [Mail services](#mail-services) - [Blogs](#blogs) - [More](#more) | [Contribute](#contribute)
 ## Account services
 |Website name|Description|Creator/Developer|URL|Alert|
 |:-|:-|:-|:-|:-|
@@ -27,5 +27,3 @@
 
 ## Contribute
 Feel free to contribute making pull requests and making issues!
-
-### This project is under
