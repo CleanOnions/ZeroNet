@@ -4,10 +4,11 @@
 |Website name|Description|Creator/Developer|URL|Alert|
 |:-|:-|:-|:-|:-|
 |ZeroID|Principal Zeronet ID provider|[Zeronet](https://zeronet.io)|[zeroid.bit](http://localhost:43110/zeroid.bit)||
+|KaffieID|Kaffie's ID service|[Kaffie](http://localhost:43110/kaffie.bit)|[1K3tM7irQqSX4Hx3JvNgkimkQzY6jPtBfz](http://localhost:43110/1K3tM7irQqSX4Hx3JvNgkimkQzY6jPtBfz)||
 ## Search Engines
 |Website name|Description|Creator/Developer|URL|Alert|
 |:-|:-|:-|:-|:-|
-|Kaffiene|Kaffie's Search Engine|[Kaffie](http://localhost:43110/Mail.ZeroNetwork.bit)|[1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba](http://localhost:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba)||
+|Kaffiene|Kaffie's Search Engine|[Kaffie](http://localhost:43110/kaffie.bit)|[1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba](http://localhost:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba)||
 ## Mail services
 |Website name|Description|Creator/Developer|URL|Alert|
 |:-|:-|:-|:-|:-|
